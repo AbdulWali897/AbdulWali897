@@ -9,7 +9,7 @@
   **Deep Learning**
 
 
-- 🌱 I have developed a solid understanding and proficiency in key areas of electrical engineering and computer science. The skills I have acquired include:
+- 🌱 I have developed a solid understanding and proficiency in key areas of electrical engineering and computer science. The skills I have acquired include:<br>
  **Electrical Engineering:** Circuit design, signal processing.<br>
  **Computer Science:** Programming (Python, C), data structures, and algorithms.<br>
  **Specialized Knowledge:** Computer architecture, operating systems, and networking.<br>
